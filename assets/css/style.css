@@ -173,8 +173,9 @@ input{
 
 .inf1 a{
     color: white;
-    padding: 15px;
-    font-size: 20pt;
+    font-size: 30pt;
+    position: relative;
+    margin-bottom: 15px;
 }
 
 .logo{
