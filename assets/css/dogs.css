@@ -1,0 +1,130 @@
+.se1, .se2, .se3, .se4{
+    width: 100%;
+    height: 27.5vh;
+    display: flex;
+}
+
+.se1 .dog1{
+    width: 50%;
+    height: 100%;
+}
+
+.se1 .dog2{
+    width: 50%;
+    height: 100%;
+}
+
+.se2 .dog1{
+    width: 50%;
+    height: 100%;
+}
+
+.se2 .dog2{
+    width: 50%;
+    height: 100%;
+}
+
+.se3 .dog1{
+    width: 50%;
+    height: 100%;
+}
+
+.se3 .dog2{
+    width: 50%;
+    height: 100%;
+}
+
+.se4 .dog1{
+    width: 50%;
+    height: 100%;
+}
+
+.se4 .dog2{
+    width: 50%;
+    height: 100%;
+}
+
+.se1 .dog1{
+    margin-left: 260px;
+}
+
+.se1 .dog2{
+    margin-left: 260px;
+}
+
+.se2 .dog1{
+    margin-right: 260px;
+}
+
+.se2 .dog2{
+    margin-right: 260px;
+}
+
+.se3 .dog1{
+    margin-left: 260px;
+}
+
+.se3 .dog2{
+    margin-left: 260px;
+}
+
+.se4 .dog1{
+    margin-right: 260px;
+}
+
+.se4 .dog2{
+    margin-right: 260px;
+}
+
+.ftdg{
+    width: 50%;
+    height: 100%;
+}
+
+.se1 .dog1 .ftdg{
+    background-image: url(../img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se1 .dog2 .ftdg{
+    background-image: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se2 .dog1 .ftdg{
+    background-image: url(../img/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se2 .dog2 .ftdg{
+    background-image: url(../img/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se3 .dog1 .ftdg{
+    background-image: url(../img/5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se3 .dog2 .ftdg{
+    background-image: url(../img/6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se4 .dog1 .ftdg{
+    background-image: url(../img/7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.se4 .dog2 .ftdg{
+    background-image: url(../img/8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
